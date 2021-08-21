@@ -75,5 +75,8 @@
     <Image Include="C:\Users\benadmin\Pictures\popcat.png">
       <Filter>Resource Files\textures</Filter>
     </Image>
+    <Image Include="C:\Users\benadmin\Pictures\brick.png">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
   </ItemGroup>
 </Project>
