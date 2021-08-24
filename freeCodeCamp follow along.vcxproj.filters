@@ -90,5 +90,11 @@
     <Image Include="C:\Users\benadmin\Pictures\brick.png">
       <Filter>Resource Files\textures</Filter>
     </Image>
+    <Image Include="planksSpec.png">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
+    <Image Include="planks.png">
+      <Filter>Resource Files\textures</Filter>
+    </Image>
   </ItemGroup>
 </Project>
